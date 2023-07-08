@@ -15,9 +15,3 @@
 
 ### algunos de mis diseños en figma 📸👇
 
-<a href='https://youtu.be/-s1DA9NXqNw' target='_blank'>
-  <img width='30%' src='' alt='¡Pregunta de entrevista en JavaScript!' />
-</a>
-<a href='https://youtu.be/iYH-U6F5ng8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iYH-U6F5ng8/mqdefault.jpg' alt='¡Usa React con Python y sin JavaScript! Tutorial desde cero' />
-</a>
