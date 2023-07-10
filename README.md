@@ -14,4 +14,5 @@
 </p>
 
 ### algunos de mis diseños en figma 📸👇
+<p align="center">Soy <strong>[Desarrollador JavaScript Full Stack](https://www.figma.com/file/rfXxJ2Fpw6KrKWobACTJD4/Untitled?type=design&mode=design&t=Zmj62vi4JuxJLYsG-1)https://www.figma.com/file/rfXxJ2Fpw6KrKWobACTJD4/Untitled?type=design&mode=design&t=Zmj62vi4JuxJLYsG-1</strong>
 
