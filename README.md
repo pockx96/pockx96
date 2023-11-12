@@ -1,7 +1,3 @@
-<p align="center" width="300">
-   <img align="center" width="800" height="250" src="https://github.com/pockx96/pockx96/blob/main/Baner%20Main.jpg" />
-   <h3 align="center">¡Hey 👋! Soy christopher acosta 👨🏻‍💻</h3>
-</p>
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> .<br />¡Revisa mi redes 👇!</p>
 <p align="center">
