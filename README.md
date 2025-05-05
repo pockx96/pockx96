@@ -1,5 +1,5 @@
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> .<br />¡Revisa mi redes 👇!</p>
+<p align="center">Soy <strong>Desarrollador Typescript Full Stack</strong> .<br />¡Revisa mi redes 👇!</p>
 <p align="center">
   <a href="https://www.instagram.com/cristopheracosta96/" target="blank">
     <img align="center" src="https://github.com/pockx96/pockx96/blob/main/instagram.png" alt="midu.dev" height="28px" width="28px" />
